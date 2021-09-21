@@ -1,0 +1,61 @@
+a{
+    list-style: none;
+    text-decoration: none;
+}
+.d-in{
+    display: inline-block;
+}
+.container{
+    margin: 0 100px;
+}
+.btn-1{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    text-align: center;
+    margin-top: 5px;
+    
+}
+.btn-1 a {
+    width: 100%;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.middle-1{
+    margin: 0 25px;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+}
+.middle-1>a{
+    color: blue;
+    font-size: 45px;
+}
+.btn-2{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.image img{
+    width: 350px;
+    height: 250px;
+}
+
+.btn-3 a{
+    color: white;
+    text-align: center;
+    background-color: rgb(61, 61, 61);
+    padding: 7px 25px;
+    border-radius: 5px;
+    width: 80%;
+}
+.quest{
+    background-color: blue;
+    color: white;
+    padding: 0 5px;
+    border-radius: 50%;
+}
